@@ -1,0 +1,27 @@
+.list-group-item {
+  padding: .75rem 0;
+}
+.list-group-item .title {
+  text-transform: uppercase;
+  color: #263291;
+}
+.list-group-item i {
+  color: #263291;
+}
+.counter .form-control,
+.counter .form-control-plaintext {
+  padding: 0;
+  height: auto;
+}
+.counter button {
+  padding: 0;
+}
+.counter button i {
+  font-size: 20px;
+}
+.counter .increase i {
+  color: #e83a5b;
+}
+.text-blue {
+  color: #263291;
+}
